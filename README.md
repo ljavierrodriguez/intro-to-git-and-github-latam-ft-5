@@ -57,7 +57,12 @@ $ git branch <branch_name>
 $ git checkout -b <branch_name>
 ```
 
--- Fusionar (merge) un cambio
+- Fusionar (merge) un cambio
 ```shell
 $ git merge <branch_name>
 ``` 
+
+- Vincular Repositorio Local a uno Remoto
+```shell
+$ git remote add <name> <url>
+```
